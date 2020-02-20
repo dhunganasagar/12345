@@ -1,0 +1,9 @@
+tmp
+downloads
+.vscode
+client_secret.json
+credentials.json
+.uds
+__pycache__
+*.pyc
+.idea
